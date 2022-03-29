@@ -1,4 +1,4 @@
-## Region Impurity and Prediction Uncertainty (CVPR 2022)
+## Region Impurity and Prediction Uncertainty (CVPR 2022 Oral Presentation)
 
 This repo contains the official **PyTorch** code and models for the Region Impurity and Prediction Uncertainty (RIPU).
 
