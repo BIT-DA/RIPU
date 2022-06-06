@@ -25,11 +25,13 @@ For more information on DAFormer, please check our **[[Paper](https://arxiv.org/
 ## Citation
 If you find this project useful in your research, please consider citing:
 ```latex
-@InProceedings{xie2022towards,
-  author = {Binhui Xie and Longhui Yuan and Shuang Li and Chi Harold Liu and Xinjing Cheng},
-  title={Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2022}
+@InProceedings{Xie_2022_CVPR,
+    author    = {Xie, Binhui and Yuan, Longhui and Li, Shuang and Liu, Chi Harold and Cheng, Xinjing},
+    title     = {Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {8068-8078}
 }
 ```
 
