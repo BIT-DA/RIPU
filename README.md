@@ -2,7 +2,7 @@
 
 <div align="center">    
  
-# Region Impurity and Prediction Uncertainty (CVPR 2022 Oral)
+# Region Impurity and Prediction Uncertainty (CVPR Oral)
 
 [Binhui Xie](https://binhuixie.github.io), Longhui Yuan, [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
 
@@ -87,7 +87,7 @@ The data folder should be structured as follows:
 ```
 
 ### Model Zoo
-We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (提取码`RIPU`).
+We have put our model checkpoints here [[Google Drive](https://drive.google.com/drive/folders/1GUGsMHnBHlk5rlkAsUq55O2GNdFF_--a?usp=sharing)] [[百度网盘](https://pan.baidu.com/s/17PovD8QfMzZiC5pyYzOqXA)] (提取码`RIPU`).
 
 #### GTAV to Cityscapes
 <table>
