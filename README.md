@@ -4,10 +4,13 @@
  
 # Region Impurity and Prediction Uncertainty (CVPR Oral)
 
-[Binhui Xie](https://binhuixie.github.io), Longhui Yuan, [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
+[Binhui Xie](https://binhuixie.github.io), [Longhui Yuan](https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
 
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.2111.12940-B31B1B.svg)](https://arxiv.org/abs/2111.12940)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-%23B31B1B?style=flat-square)](https://arxiv.org/abs/2111.12940)&nbsp;&nbsp;
+[![Bilibili](https://img.shields.io/badge/Video-Bilibili-%2300A1D6?logo=bilibili&style=flat-square)](https://www.bilibili.com/video/BV1oS4y1e7J5)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/Video-YouTube-%23FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=kN4Kru2fL-g)&nbsp;&nbsp;
+[![Slides](https://img.shields.io/badge/Poster-Dropbox-%230061FF?logo=dropbox&style=flat-square)](https://www.dropbox.com/s/mm14k36ydirk2w8/cvpr22_poster_2x1_in-person.pdf?dl=0)&nbsp;&nbsp;
 
 </div>
 
