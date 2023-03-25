@@ -23,6 +23,7 @@ from core.loss.negative_learning_loss import NegativeLearningLoss
 from core.loss.local_consistent_loss import LocalConsistentLoss
 from core.utils.utils import set_random_seed
 
+import setproctitle
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -241,6 +242,7 @@ def main():
     if output_dir:
         mkdir(output_dir)
 
+    setproctitle.setproctitle(f'{args.proctitle}')
     logger = setup_logger("AL-RIPU", output_dir, 0)
     logger.info(args)
 

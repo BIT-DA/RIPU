@@ -19,6 +19,9 @@ from core.models import build_feature_extractor, build_classifier
 from core.utils.misc import mkdir, AverageMeter, intersectionAndUnionGPU, get_color_pallete
 from core.utils.logger import setup_logger
 
+import setproctitle
+import warnings
+warnings.filterwarnings('ignore')
 
 def strip_prefix_if_present(state_dict, prefix):
     keys = sorted(state_dict.keys())
@@ -174,6 +177,7 @@ def main():
     cfg.merge_from_list(args.opts)
     cfg.freeze()
 
+    setproctitle.setproctitle(f'{args.proctitle}')
     save_dir = ""
     logger = setup_logger("AL-RIPU", save_dir, 0)
     logger.info(cfg)

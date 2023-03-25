@@ -98,8 +98,8 @@ We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (�
       <td>backbone</td>
       <td>budget</td>
       <td>mIoU</td>
-     <td>Checkpoint</td>
-    <td>Where in <a href="https://arxiv.org/abs/2111.12940">Our Paper</a></td>
+     <td>ckpt</td>
+    <td>where in <a href="https://arxiv.org/abs/2111.12940">Our Paper</a></td>
     </tr>
   </thead>
   <tbody>
@@ -142,8 +142,8 @@ We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (�
       <td>backbone</td>
       <td>budget</td>
     <td>mIoU</td>
-      <td>Checkpoint</td>
-      <td>Where in <a href="https://arxiv.org/abs/2111.12940">Our Paper</a></td>
+      <td>ckpt</td>
+      <td>where in <a href="https://arxiv.org/abs/2111.12940">Our Paper</a></td>
     </tr>
   </thead>
   <tbody>
@@ -173,6 +173,42 @@ We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (�
       <td>71.4</td>
       <td><a href="https://drive.google.com/drive/folders/1GUGsMHnBHlk5rlkAsUq55O2GNdFF_--a?usp=sharing">Google Drive</a>&nbsp/&nbsp<a href="https://pan.baidu.com/s/17PovD8QfMzZiC5pyYzOqXA">BaiDu</a>&nbsp;</td>
       <td>Table 2</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Source-free scenarios
+<table>
+  <thead>
+    <tr style="text-align: center;">
+      <td></td>
+      <td>task</td>
+      <td>budget</td>
+    <td>mIoU</td>
+    <td>source pre-trained ckpt</td>
+      <td>adapted ckpt</td>
+      <td>Where in <a href="https://arxiv.org/abs/2111.12940">Our Paper</a></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>GTAV to Cityscapes</td>
+      <td>2.2%</td>
+      <td>67.1</td>
+    <td><a href="https://drive.google.com/file/d/1YimMmFE8yceCDori0l1TCR_aH_pigkzr/view?usp=sharing">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
+      <td><a href="https://drive.google.com/file/d/1kjdO6vSqU5tzQnEuJave43qzgKX6nSez/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
+      <td>Table 12</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SYNTHIA to Cityscapes</td>
+      <td>2.2%</td>
+      <td>68.7</td>
+<td><a href="https://drive.google.com/file/d/15otC9L6yCLjyYQl2Z_6Q4ORyq3T4AT5Z/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
+      <td><a href="https://drive.google.com/file/d/1URaXtXZ3wfT1bw54cJEI2qiVefTEpaTK/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp;</td>
+      <td>Table 13</td>
     </tr>
   </tbody>
 </table>

@@ -1,0 +1,24 @@
+MODEL:
+  NAME: "deeplabv2_resnet101"
+  WEIGHTS: "https://download.pytorch.org/models/resnet101-5d3b4d8f.pth"
+  FREEZE_BN: True
+  NUM_CLASSES: 16
+DATASETS:
+  SOURCE_TRAIN: "synthia_train"
+  TARGET_TRAIN: "cityscapes_train"
+  TEST: "cityscapes_val"
+INPUT:
+  SOURCE_INPUT_SIZE_TRAIN: (1280, 720)
+  TARGET_INPUT_SIZE_TRAIN: (1024, 512)
+  INPUT_SIZE_TEST: (1024, 512)
+SOLVER:
+  BASE_LR: 2.5e-4
+  MAX_ITER: 62500
+  STOP_ITER: 30000
+  BATCH_SIZE: 2
+ACTIVE:
+  NAME: 'AL-RIPU'
+  SETTING: 'RA'
+  SELECT_ITER: [0, 2000, 4000, 6000, 8000]
+  RATIO: 0.022
+  REGION_SIZE: 9  # smaller might be better
