@@ -20,4 +20,4 @@ ACTIVE:
   SETTING: 'RA'
   SELECT_ITER: [0, 2000, 4000, 6000, 8000]
   RATIO: 0.022
-  REGION_SIZE: 9  # smaller might be better
+  RADIUS_K: 9  # smaller might be better

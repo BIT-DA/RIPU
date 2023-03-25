@@ -2,12 +2,16 @@
 
 <div align="center">    
  
-# Region Impurity and Prediction Uncertainty (CVPR 2022 Oral)
+# Region Impurity and Prediction Uncertainty (CVPR Oral)
 
-[Binhui Xie](https://binhuixie.github.io), Longhui Yuan, [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
+[Binhui Xie](https://binhuixie.github.io), [Longhui Yuan](https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
 
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.2111.12940-B31B1B.svg)](https://arxiv.org/abs/2111.12940)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-%23B31B1B?style=flat-square)](https://arxiv.org/abs/2111.12940)&nbsp;&nbsp;
+[![Models](https://img.shields.io/badge/Model-Google-%230061FF?logo=googledrive&style=flat-square)](https://drive.google.com/drive/folders/1GUGsMHnBHlk5rlkAsUq55O2GNdFF_--a)&nbsp;&nbsp;
+[![Bilibili](https://img.shields.io/badge/Video-Bilibili-%2300A1D6?logo=bilibili&style=flat-square)](https://www.bilibili.com/video/BV1oS4y1e7J5)&nbsp;&nbsp;
+[![YouTube](https://img.shields.io/badge/Video-YouTube-%23FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/watch?v=kN4Kru2fL-g)&nbsp;&nbsp;
+[![Slides](https://img.shields.io/badge/Poster-Dropbox-%230061FF?logo=dropbox&style=flat-square)](https://www.dropbox.com/s/mm14k36ydirk2w8/cvpr22_poster_2x1_in-person.pdf?dl=0)&nbsp;&nbsp;
 
 </div>
 
@@ -87,7 +91,7 @@ The data folder should be structured as follows:
 ```
 
 ### Model Zoo
-We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (提取码`RIPU`).
+We have put our model checkpoints here [[Google Drive](https://drive.google.com/drive/folders/1GUGsMHnBHlk5rlkAsUq55O2GNdFF_--a?usp=sharing)] [[百度网盘](https://pan.baidu.com/s/17PovD8QfMzZiC5pyYzOqXA)] (提取码`RIPU`).
 
 #### GTAV to Cityscapes
 <table>
@@ -197,8 +201,8 @@ We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (�
       <td>GTAV to Cityscapes</td>
       <td>2.2%</td>
       <td>67.1</td>
-    <td><a href="https://drive.google.com/file/d/1YimMmFE8yceCDori0l1TCR_aH_pigkzr/view?usp=sharing">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
-      <td><a href="https://drive.google.com/file/d/1kjdO6vSqU5tzQnEuJave43qzgKX6nSez/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
+    <td><a href="https://drive.google.com/file/d/1YimMmFE8yceCDori0l1TCR_aH_pigkzr/view?usp=sharing">Google Drive</a>&nbsp/&nbsp<a href="https://pan.baidu.com/s/1DkIupuggBs-_wg9j5xpc6Q">BaiDu</a>&nbsp</td>
+      <td><a href="https://drive.google.com/file/d/1kjdO6vSqU5tzQnEuJave43qzgKX6nSez/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="https://pan.baidu.com/s/1VGch_pEgpukZpCEjQNSIlA">BaiDu</a>&nbsp</td>
       <td>Table 12</td>
     </tr>
     <tr>
@@ -206,8 +210,8 @@ We have put our model checkpoints here [[Google Drive]()] [[百度网盘]()] (�
       <td>SYNTHIA to Cityscapes</td>
       <td>2.2%</td>
       <td>68.7</td>
-<td><a href="https://drive.google.com/file/d/15otC9L6yCLjyYQl2Z_6Q4ORyq3T4AT5Z/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp</td>
-      <td><a href="https://drive.google.com/file/d/1URaXtXZ3wfT1bw54cJEI2qiVefTEpaTK/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="">BaiDu</a>&nbsp;</td>
+<td><a href="https://drive.google.com/file/d/15otC9L6yCLjyYQl2Z_6Q4ORyq3T4AT5Z/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="https://pan.baidu.com/s/1zRAb2HttwlgerOyGz085Kg">BaiDu</a>&nbsp</td>
+      <td><a href="https://drive.google.com/file/d/1URaXtXZ3wfT1bw54cJEI2qiVefTEpaTK/view?usp=share_link">Google Drive</a>&nbsp/&nbsp<a href="https://pan.baidu.com/s/1opjIZmZA1VeyNCH2IEsN-A">BaiDu</a>&nbsp;</td>
       <td>Table 13</td>
     </tr>
   </tbody>
