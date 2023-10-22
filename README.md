@@ -4,7 +4,7 @@
  
 # Region Impurity and Prediction Uncertainty (CVPR Oral)
 
-[Binhui Xie](https://binhuixie.github.io), [Longhui Yuan](https://scholar.google.com/citations?user=fVnEIZEAAAAJ&hl=en), [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
+[Binhui Xie](https://binhuixie.github.io), [Longhui Yuan](https://yuanlonghui.github.io), [Shuang Li](https://shuangli.xyz), [Chi Harold Liu](https://scholar.google.com/citations?user=3IgFTEkAAAAJ&hl=en) and [Xinjing Cheng](https://scholar.google.com/citations?user=8QbRVCsAAAAJ&hl=en)
 
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-%23B31B1B?style=flat-square)](https://arxiv.org/abs/2111.12940)&nbsp;&nbsp;
